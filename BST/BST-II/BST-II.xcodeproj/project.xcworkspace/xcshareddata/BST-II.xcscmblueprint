@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "411A893C1EC1DC4312CC91A5DB40C9498D732C69",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E82BB69003238A4DA3D94D9EE9C01CF4A2D7CB90" : 0,
+    "411A893C1EC1DC4312CC91A5DB40C9498D732C69" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E044519C-1F88-45A2-AC2F-47DEEA44A9AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E82BB69003238A4DA3D94D9EE9C01CF4A2D7CB90" : "",
+    "411A893C1EC1DC4312CC91A5DB40C9498D732C69" : "Algorithms\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BST-II",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BST\/BST-II\/BST-II.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Boxue\/algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "411A893C1EC1DC4312CC91A5DB40C9498D732C69"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Boxue\/doraemon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E82BB69003238A4DA3D94D9EE9C01CF4A2D7CB90"
+    }
+  ]
+}
